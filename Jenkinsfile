@@ -61,7 +61,7 @@ pipeline {
 
     post {
         success {
-            echo 'Pipeline completed successfully!'
+            echo 'Congratulations your jenkins Pipeline completed successfully!'
         }
 
         failure {
